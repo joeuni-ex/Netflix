@@ -15,3 +15,7 @@
 ```
 
 - [사이트접속](https://joeuni-ex.github.io/Netflix/)
+
+- [아이콘 :박시콘](https://boxicons.com/?query=heart)
+
+- [README 문법: 마크다운](https://gist.github.com/ihoneymon/652be052a0727ad59601)
